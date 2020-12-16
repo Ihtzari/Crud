@@ -1,0 +1,21 @@
+CRITICAL - 2020-12-03 01:50:18 --> Undefined index: idNombre
+#0 C:\xampp\htdocs\crudCode\app\Controllers\Crud.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\crudCode\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Crud->actualizar()
+#2 C:\xampp\htdocs\crudCode\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\crudCode\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crudCode\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-03 01:53:19 --> Undefined index: idNombre
+#0 C:\xampp\htdocs\crudCode\app\Controllers\Crud.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\crudCode\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Crud->actualizar()
+#2 C:\xampp\htdocs\crudCode\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\crudCode\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crudCode\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-03 01:53:26 --> Undefined index: idNombre
+#0 C:\xampp\htdocs\crudCode\app\Controllers\Crud.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\crudCode\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Crud->actualizar()
+#2 C:\xampp\htdocs\crudCode\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\crudCode\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crudCode\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
